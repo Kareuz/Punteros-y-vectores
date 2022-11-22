@@ -1,0 +1,6 @@
+﻿  NumsRep.cpp
+C:\Users\ALUMNOS\source\repos\NumRep\NumRep\NumsRep.cpp(27,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\ALUMNOS\source\repos\NumRep\NumRep\NumsRep.cpp(34,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\ALUMNOS\source\repos\NumRep\NumRep\NumsRep.cpp(45,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\ALUMNOS\source\repos\NumRep\NumRep\NumsRep.cpp(47,27): warning C4018: '<': no coinciden signed/unsigned
+  NumRep.vcxproj -> C:\Users\ALUMNOS\source\repos\NumRep\Debug\NumRep.exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProductoVect", "ProductoVect\ProductoVect.vcxproj", "{DD55B061-3985-46F8-AF05-F7AF4AA79195}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD55B061-3985-46F8-AF05-F7AF4AA79195}.Debug|x64.ActiveCfg = Debug|x64
+		{DD55B061-3985-46F8-AF05-F7AF4AA79195}.Debug|x64.Build.0 = Debug|x64
+		{DD55B061-3985-46F8-AF05-F7AF4AA79195}.Debug|x86.ActiveCfg = Debug|Win32
+		{DD55B061-3985-46F8-AF05-F7AF4AA79195}.Debug|x86.Build.0 = Debug|Win32
+		{DD55B061-3985-46F8-AF05-F7AF4AA79195}.Release|x64.ActiveCfg = Release|x64
+		{DD55B061-3985-46F8-AF05-F7AF4AA79195}.Release|x64.Build.0 = Release|x64
+		{DD55B061-3985-46F8-AF05-F7AF4AA79195}.Release|x86.ActiveCfg = Release|Win32
+		{DD55B061-3985-46F8-AF05-F7AF4AA79195}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BA1952D-22B6-4B74-BB45-51C29889C571}
+	EndGlobalSection
+EndGlobal
